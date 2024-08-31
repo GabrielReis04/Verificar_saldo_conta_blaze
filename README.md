@@ -1,4 +1,4 @@
-# BlazeAPI Automation
+# VERIFICADOR_DE_SALDO_BLAZE
 
 Este projeto é uma ferramenta automatizada para autenticação e verificação de saldos em contas da plataforma Blaze. Ele foi desenvolvido com fins educacionais e de estudo, para demonstrar como interagir com APIs de terceiros usando Python.
 
