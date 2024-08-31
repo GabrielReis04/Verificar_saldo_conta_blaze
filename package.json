@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "request": "^2.88.2",
+    "requests": "^0.3.0",
+    "toml": "^3.0.0"
+  }
+}
