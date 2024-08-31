@@ -1,4 +1,4 @@
-# BlazeAPI Automation
+# VERIFICADOR_DE_SALDO_BLAZE
 
 Este projeto é uma ferramenta automatizada para autenticação e verificação de saldos em contas da plataforma Blaze. Ele foi desenvolvido com fins educacionais e de estudo, para demonstrar como interagir com APIs de terceiros usando Python.
 
@@ -22,7 +22,7 @@ pip install requests toml
 Configuração:
 
 Clone o repositório:
-git clone https://github.com/seu_usuario/BlazeAPI-Automation.git
+git clone https://github.com/GabrielReis04/Verificar_saldo_conta_blaze.git
 cd BlazeAPI-Automation
 
 Crie um arquivo TOML com suas credenciais de autenticação. Você pode usar o script tranformaremconf.py para gerar automaticamente esse arquivo a partir de uma lista de URLs no formato serviço_url:email:senha.
